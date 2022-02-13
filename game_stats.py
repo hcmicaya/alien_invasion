@@ -9,9 +9,6 @@ class GameStats:
         # Start game in an incative state.
         self.game_active = False
 
-        # Start Alien Invasion in an active state.
-        self.game_active = True
-
         # High s core should never be reset.
         self.high_score = 0
 
